@@ -1,0 +1,35 @@
+body {
+background-image: url("https://img5.goodfon.com/original/1440x900/c/60/shokolad-kakao-struzhka-orekhi.jpg");
+}
+
+.title {
+    text-align: center;
+    color: blueviolet;
+    background-color: black;
+    border: 5px dotted red;
+}
+
+.subtitle {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#caja, #caja2 {
+    background-color: black;
+}
+
+#caja {
+    width: 400px;
+    height: 200px;
+    /*margin: 0 auto; El primer valor lo aplica arriba, el segundo derecha e izquierda y el tercero abajo*/
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+
+#caja p, #caja2 p{
+    color:blanchedalmond;
+} 
+// <!-- Así referenciamos lo que hay dentro de la caja -->

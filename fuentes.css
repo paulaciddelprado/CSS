@@ -1,0 +1,60 @@
+body {
+    background-color: lightgray;
+}
+
+.title {
+    font-family: 'Josefin Slab', serif;
+color:cornsilk;
+font-weight: 700;
+font-size: 60px;
+
+}
+
+.font
+{
+font-family: 'Press Start 2P', cursive;
+color: black;
+font-weight: 400;
+font-size: 40px;
+}
+
+.yellow 
+{
+    font-family: 'Monoton', cursive;
+    color:yellow;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.red
+{
+font-family: 'Rock Salt', cursive;
+color: red;
+font-weight: 400;
+font-size: 50px;
+}
+
+.purple
+{
+    font-family: 'Creepster', cursive;
+    color:purple;
+    font-weight: 400;
+    font-size: 50px;
+    }
+
+.green
+{
+    font-family: 'Rampart One', cursive;
+    color: rgb(3, 185, 3);
+    font-weight: 400;
+    font-size: 50px;
+    }
+
+.blue
+{
+    color:rgb(4, 4, 235);
+    font-weight: 400;
+    font-size: 50px;
+    font-family: 'Megrim', cursive;
+    }
+

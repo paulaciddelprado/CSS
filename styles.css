@@ -1,0 +1,32 @@
+/* body{
+    background-color: yellowgreen;
+} */
+
+body
+h1{ 
+    color: lightgoldenrodyellow; 
+    text-align: center; 
+}
+
+#text
+
+p {
+    color: mediumblue;
+    background-color: black;
+
+}
+
+.p-large {
+    font-size: 32x;
+
+} 
+.p-green {
+    color: green; 
+    background-color: hotpink;
+} 
+.p-red {
+    color: red;
+    background-color: yellow;
+
+} 
+
