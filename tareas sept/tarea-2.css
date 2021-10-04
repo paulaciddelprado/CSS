@@ -1,0 +1,35 @@
+.flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+  }
+  
+  .wrap {
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  
+  
+  .flex-item {
+    background: orange;
+    padding: 90px;
+    width: 90px;
+    height: 90px;
+    margin: 10px;
+    line-height: 50px;
+    color: lightgoldenrodyellow;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+  }
+  
+  body {
+    background-color: lightgoldenrodyellow;
+  }
