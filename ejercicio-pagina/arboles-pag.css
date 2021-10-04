@@ -1,0 +1,129 @@
+
+
+h3,h4,h5,h6 {
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    color: rgb(27, 230, 245);
+
+}
+.Principio {
+    color: greenyellow;
+    font-family: 'Cinzel', cursive;
+   
+}
+.copy{
+    
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+:root{
+    scroll-behavior: smooth;
+
+}
+body{
+    background-image: url ("https://cdn.wallpaperdirect.com/asset/img/product/160062/tiled/casadeco-leaves-white-wallpaper-tiled-160062.jpg");
+}
+.hola, h2, .copy{
+    color: white;
+}
+
+.contenedor{
+    width: 90%;
+    max-width: 1200px;
+    overflow: hidden;
+    margin:auto;
+    padding: 60px 0;
+
+}
+header{
+    height: 100vh;
+    background-image: linear-gradient(to top, rgba(243, 160, 163, 0.267) 0%, rgba(250, 208, 196, 0.452) 99%, rgba(250, 208, 196, 0.486) 100%), url(https://recetas.mx/wp-content/uploads/2019/01/barbacoa-hidalgo-ritual.jpg);
+background-repeat: no-repeat ;
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+position:relative;
+display: flex;  
+justify-content: space-between;
+}
+.inicio{
+    padding: 0;
+    height: 100%;
+    display: flex;
+   flex-direction: column;
+   text-align: center;
+   align-content: center;
+}
+.caja1,.caja2,.caja3{
+    background-color: rgb(228, 68, 40);
+    color: white;
+    font-family: 'Playfair Display', serif;
+     
+    text-align: center;
+    height: 200px;/*alto*/
+    width: 200px;
+    font-size: 10px;
+    line-height: 100px;/*cebtrar elentos dentro*/
+    border: 1px solid;
+    margin: 2px;
+}
+.soy{
+    color: black;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+.soy1{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+ .img{
+     background-color: coral;
+      display: flex;
+    text-align: center;
+    height: 200px;/*alto*/
+    width: 200px;
+    
+    line-height: 100px;/*cebtrar elentos dentro*/
+    border: 1px solid;
+    margin: 2px;
+    border-radius: 20px;
+ }  
+       
+
+.menu{
+    position: fixed;
+    top: 20px;
+    left:30px;
+    background:rgb(111, 182, 230);
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 12px;
+
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
+    height: 70px;
+    align-items: center;
+    font-weight: 700;
+    color: cornsilk;
+    text-decoration: cyan;
+    margin-right: 20px;
+    padding: 10px 15px;
+    font-weight: inherit;
+}
+.inicio{
+    border: 10px;
+}
+
+
+#Donativos{
+    justify-content: center;
+    height: 100vw;
+}
+#blanco{
+    color:white;
+    text-align: center;
+}
